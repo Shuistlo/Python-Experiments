@@ -1,5 +1,4 @@
 """
-File Assignment 5.
 Defines class Card and tests it by creating four Card objects and calling methods on them
 class Card handles errors such as
 incorrect Type for rank and suit
